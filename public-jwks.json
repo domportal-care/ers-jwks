@@ -2,9 +2,9 @@
   "keys": [
     {
       "kty": "RSA",
-      "n": "uBqMwc0YhaaHWmoG7xRvHpNKuHif6bjCMucB_6f17CLMlnEfEu_3itXntD5iXLu1z9zyYNnLsFSUU9m32krVwjxXzlhR0Qp9hgWr7HqrffgGOlsZWIHMmZPJo83DPCQik6Qb0XXn7fjz_CTXhSrZcX69lWiKFgJwoRDsxm_aq27dtiJGxIwRUcIS7_fYGwUWMHedM6gPyXT2-K4TYeH1vCVfVh3FEWEPYYBeFoKW3yjhLMevE3DmGbb1qvpYC9aphrycOQkkP3NIrzSoQpfmdxolIOmR23ZaSG9XjsZ9AdDKqDbtau0rh-JCP_sKYZtBYweoe9XyNH9hRXdVBbs_ow",
+      "n": "v9MYTfoY_NpZTZLQAEUz27kwCIYiwf4-Iq3b9via4Xlh5UOEbp-0ipxmFkBZdL4OJuXNxoVc7YUOx2_zCQaJGqzcSJr5VLiyUplNgtBIRnOf3OW0ybG6IzNsFvffqoIkiO4Ta3CDq6ce2n9alxjZci01PjCe18AVfJ5qxh0x0q3ovzTP_K35XgNUlMiUj0QWtiDviicz5krkL0EnnnQcgH7YyLZKdpF9WLWxhNYHrWiM_5ihv8Cg6PQeQni9B3qWlC-XM5BSyomLzzpUNkZjKjzlcy1sq182-Y6_37L-IiazQj8FbVU7vj3KIvOaJv4OQxg6jOGUkJ7vOML-iePkoQ",
       "e": "AQAB",
-      "kid": "02698680-608c-4f3a-af6b-9c2822d906a1",
+      "kid": "domportal-int-1",
       "use": "sig",
       "alg": "RS512"
     }
